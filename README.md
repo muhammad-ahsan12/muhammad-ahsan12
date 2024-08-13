@@ -1,6 +1,6 @@
 - 👋 Assalamualikum, I’m muhammad-ahsan
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Python, LangChain, and Chatbot Development.
-- 🌱 I’m currently learning more advanced techniques in AI, including Retrieval-Augmented Generation (RAG) using LangChain, and enhancing my skills in CNNs for image classification.
+- 🌱🌱 I’m currently learning advanced AI techniques, including Retrieval-Augmented Generation (RAG) using LangChain, deep learning models for image classification, and enhancing my expertise in Python and AI frameworks.
 - 💞️ I’m looking to collaborate on AI projects, particularly those involving chatbot development and deep learning models.
 - 📫 How to reach me: Email, LinkedIn, GitHub
 - 😄 Pronouns: He/Him
