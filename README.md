@@ -14,9 +14,7 @@
 - 💡 Skilled in Python, TensorFlow, HuggingFace, LangChain, FastAPI, Docker, and Streamlit, with a strong foundation in deploying scalable AI applications.
 - 💞 Looking to collaborate on AI projects in NLP, chatbots, RAG systems, computer vision, and domain-specific LLM fine-tuning.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer Animation" width="600"/>
-</p>
+<img align="right" alt="Particles animation" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/gifs/particle.gif" />
 
 ## 🌐 Socials
 
