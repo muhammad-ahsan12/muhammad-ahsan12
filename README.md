@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-ahsan12&show_icons=true&theme=radical&hide_border=false&count_private=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ahsan12&theme=radical&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ahsan12&theme=radical&hide_border=false&layout=compact" height="150"/>
 </p>
 
 ---
