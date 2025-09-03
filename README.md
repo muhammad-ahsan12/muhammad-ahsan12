@@ -1,11 +1,16 @@
 👋 Assalamualikum, I’m Muhammad Ahsan
-🚀 AI & Machine Learning Engineer | LangChain & LLM Enthusiast | Chatbot Developer 👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines
-🌱 Currently enhancing my expertise in Retrieval-Augmented Generation (RAG), LLM fine-tuning, Transformer models, and real-time computer vision systems.
-💼 Hands-on experience as a Junior AI Developer at Synaptics Solution and Machine Learning Engineer Intern at MakTek AI & Mawakey, where I worked on chatbots, RAG pipelines, detection systems, and fine-tuning LLMs.
-💡 Skilled in Python, TensorFlow, HuggingFace, LangChain, FastAPI, Docker, and Streamlit, with a strong foundation in deploying scalable AI applications.
-💞 Looking to collaborate on AI projects in NLP, chatbots, RAG systems, computer vision, and domain-specific LLM fine-tuning.
-📫 Reach me via Email<br> | LinkedIn<br> | GitHub<br> | Portfolio<br><br>⚡ Fun fact: I once combined YOLO + MediaPipe to create a real-time Islamic prayer pose detection system.
 
+🚀 AI & Machine Learning Engineer | LangChain & LLM Enthusiast | Chatbot Developer
+
+👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines.
+
+🌱 Currently enhancing my expertise in Retrieval-Augmented Generation (RAG), LLM fine-tuning, Transformer models, and real-time computer vision systems.
+
+💼 Hands-on experience as a Junior AI Developer at Synaptics Solution and Machine Learning Engineer Intern at MakTek AI & Mawakey, where I worked on chatbots, RAG pipelines, detection systems, and fine-tuning LLMs.
+
+💡 Skilled in Python, TensorFlow, HuggingFace, LangChain, FastAPI, Docker, and Streamlit, with a strong foundation in deploying scalable AI applications.
+
+💞 Looking to collaborate on AI projects in NLP, chatbots, RAG systems, computer vision, and domain-specific LLM fine-tuning.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahsan Khan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Ahsan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad Ahsan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadahsanuetm143@gmail.com) 
