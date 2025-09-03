@@ -7,6 +7,9 @@
   </a>
 </p>
 
+<img align="right" alt="Particles animation" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/gifs/particle.gif" />
+
+
 - 🚀 AI & Machine Learning Engineer | LangChain & LLM Devoloper | Chatbot Developer
 - 👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines.
 - 🌱 Currently enhancing my expertise in Retrieval-Augmented Generation (RAG), LLM fine-tuning, Transformer models, and real-time computer vision systems.
@@ -14,7 +17,6 @@
 - 💡 Skilled in Python, TensorFlow, HuggingFace, LangChain, FastAPI, Docker, and Streamlit, with a strong foundation in deploying scalable AI applications.
 - 💞 Looking to collaborate on AI projects in NLP, chatbots, RAG systems, computer vision, and domain-specific LLM fine-tuning.
 
-<img align="right" alt="Particles animation" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/gifs/particle.gif" />
 
 ## 🌐 Socials
 
