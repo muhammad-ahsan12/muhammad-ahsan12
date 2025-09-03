@@ -10,10 +10,10 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/muhammad.ahsan.143) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahsan-6b552b279) [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@MuhammadAhsan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadahsanuetm143@gmail.com)
 
+<!-- Pac-Man Game Contribution Graph -->
 <div align="center">
-  <img src="https://media.giphy.com/media/xUA7beo7hYjKuS1PzK/giphy.gif" alt="Matrix animation" width="600"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=yellow" alt="Pac-Man animation" />
 </div>
-
 
 
 # 💻 Tech Stack:
