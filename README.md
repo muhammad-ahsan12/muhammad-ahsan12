@@ -3,12 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullah..+🤲;AI+%26+Machine+Learning+Engineer;LangChain+%26+LLM+Developer;Chatbot+Creator+%7C+Agentic+AI+Pipelines;Computer+Vision+%26+Deep+Learning+Enthusiast;Always+Learning+%26+Exploring+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullah..+🤲;AI+%26+Machine+Learning+Engineer;LangChain+%26+LLM+Developer;Chatbot+Creator+%7C+Agentic+AI+Pipelines;Computer+Vision+%26+Deep+Learning+Engineer;Always+Learning+%26+Exploring+🚀">
   </a>
 </p>
 
-  
-# 👋 I’m Muhammad Ahsan
 - 🚀 AI & Machine Learning Engineer | LangChain & LLM Devoloper | Chatbot Developer
 - 👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines.
 - 🌱 Currently enhancing my expertise in Retrieval-Augmented Generation (RAG), LLM fine-tuning, Transformer models, and real-time computer vision systems.
