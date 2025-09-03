@@ -1,6 +1,5 @@
-👋 Assalamualikum, I’m Muhammad Ahsan
-
-🚀 AI & Machine Learning Engineer | LangChain & LLM Enthusiast | Chatbot Developer
+#👋 Assalamualikum, I’m Muhammad Ahsan
+-🚀 AI & Machine Learning Engineer | LangChain & LLM Enthusiast | Chatbot Developer
 
 👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines.
 
