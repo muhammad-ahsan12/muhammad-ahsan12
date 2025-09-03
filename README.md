@@ -11,7 +11,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 - 🚀 AI & Machine Learning Engineer | LangChain & LLM Devoloper | Chatbot Developer
 - 👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines.
 - 🌱 Currently enhancing my expertise in Retrieval-Augmented Generation (RAG), LLM fine-tuning, Transformer models, and real-time computer vision systems.
