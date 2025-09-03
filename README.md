@@ -1,8 +1,12 @@
-<div align="center">
+<h1 align="center"><b>Hi , I'm Muhammad Ahsan </b>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Assalamualikum!+Welcome+to+my+GitHub.)](https://git.io/typing-svg)  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullah..+🤲;AI+%26+Machine+Learning+Engineer;LangChain+%26+LLM+Developer;Chatbot+Creator+%7C+Agentic+AI+Pipelines;Computer+Vision+%26+Deep+Learning+Enthusiast;Always+Learning+%26+Exploring+🚀">
+  </a>
+</p>
 
-<div align="left">
   
 # 👋 I’m Muhammad Ahsan
 - 🚀 AI & Machine Learning Engineer | LangChain & LLM Devoloper | Chatbot Developer
