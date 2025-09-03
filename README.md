@@ -8,6 +8,9 @@
 </p>
 
 <img align="right" alt="Particles animation" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/gifs/particle.gif" />
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 - 🚀 AI & Machine Learning Engineer | LangChain & LLM Devoloper | Chatbot Developer
@@ -17,8 +20,6 @@
 - 💡 Skilled in Python, TensorFlow, HuggingFace, LangChain, FastAPI, Docker, and Streamlit, with a strong foundation in deploying scalable AI applications.
 - 💞 Looking to collaborate on AI projects in NLP, chatbots, RAG systems, computer vision, and domain-specific LLM fine-tuning.
 
-<br>
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 
 ## 🌐 Socials
