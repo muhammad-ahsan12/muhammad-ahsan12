@@ -4,7 +4,7 @@
 
 <div align="left">
   
-# 👋 Assalamualikum, I’m Muhammad Ahsan
+# 👋 I’m Muhammad Ahsan
 - 🚀 AI & Machine Learning Engineer | LangChain & LLM Devoloper | Chatbot Developer
 - 👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines.
 - 🌱 Currently enhancing my expertise in Retrieval-Augmented Generation (RAG), LLM fine-tuning, Transformer models, and real-time computer vision systems.
