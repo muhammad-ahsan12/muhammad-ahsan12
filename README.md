@@ -7,9 +7,6 @@
   </a>
 </p>
 
-<img align="right" alt="Particles animation" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/gifs/particle.gif" />
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
