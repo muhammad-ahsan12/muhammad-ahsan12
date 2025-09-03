@@ -1,5 +1,10 @@
 👋 Assalamualikum, I’m Muhammad Ahsan
-🚀 AI & Machine Learning Engineer | LangChain & LLM Enthusiast | Chatbot Developer<br><br>👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines.<br><br>🌱 Currently enhancing my expertise in Retrieval-Augmented Generation (RAG), LLM fine-tuning, Transformer models, and real-time computer vision systems.<br><br>💼 Hands-on experience as a Junior AI Developer at Synaptics Solution and Machine Learning Engineer Intern at MakTek AI & Mawakey, where I worked on chatbots, RAG pipelines, detection systems, and fine-tuning LLMs.<br><br>💡 Skilled in Python, TensorFlow, HuggingFace, LangChain, FastAPI, Docker, and Streamlit, with a strong foundation in deploying scalable AI applications.<br><br>💞 Looking to collaborate on AI projects in NLP, chatbots, RAG systems, computer vision, and domain-specific LLM fine-tuning.<br><br>📫 Reach me via Email<br> | LinkedIn<br> | GitHub<br> | Portfolio<br><br>⚡ Fun fact: I once combined YOLO + MediaPipe to create a real-time Islamic prayer pose detection system.
+🚀 AI & Machine Learning Engineer | LangChain & LLM Enthusiast | Chatbot Developer 👀 Passionate about building intelligent systems in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Agentic AI Pipelines
+🌱 Currently enhancing my expertise in Retrieval-Augmented Generation (RAG), LLM fine-tuning, Transformer models, and real-time computer vision systems.
+💼 Hands-on experience as a Junior AI Developer at Synaptics Solution and Machine Learning Engineer Intern at MakTek AI & Mawakey, where I worked on chatbots, RAG pipelines, detection systems, and fine-tuning LLMs.
+💡 Skilled in Python, TensorFlow, HuggingFace, LangChain, FastAPI, Docker, and Streamlit, with a strong foundation in deploying scalable AI applications.
+💞 Looking to collaborate on AI projects in NLP, chatbots, RAG systems, computer vision, and domain-specific LLM fine-tuning.
+📫 Reach me via Email<br> | LinkedIn<br> | GitHub<br> | Portfolio<br><br>⚡ Fun fact: I once combined YOLO + MediaPipe to create a real-time Islamic prayer pose detection system.
 
 
 ## 🌐 Socials:
