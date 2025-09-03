@@ -20,7 +20,10 @@
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/muhammad.ahsan.143](https://www.facebook.com/profile.php?id=100053581008568)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahsan-6b552b279) [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@MuhammadAhsan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](muhammadahsanuetm143@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053581008568) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahsan-6b552b279) 
+[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@MuhammadAhsan) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadahsanuetm143@gmail.com)
 
 
 <div align="center">
