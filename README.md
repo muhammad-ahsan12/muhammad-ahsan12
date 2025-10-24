@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 🌐 Socials
+## About Me
 
 
 <picture>
