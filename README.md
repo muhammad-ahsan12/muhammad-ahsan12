@@ -5,7 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullah..+🤲;AI+%26+Machine+Learning+Engineer;LangChain+%26+LLM+Developer;Chatbot+Creator+%7C+Agentic+AI+Pipelines;Computer+Vision+%26+Deep+Learning+Engineer;Always+Learning+%26+Exploring+🚀">
   </a>
 </p>
-## About me
+
+## 🌐 Socials
+
+
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px">
 </picture>
@@ -19,7 +22,7 @@
 
 
 
-## 🌐 Socials
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053581008568) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahsan-6b552b279) 
